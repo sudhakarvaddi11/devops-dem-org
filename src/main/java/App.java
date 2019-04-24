@@ -1,6 +1,6 @@
 
 public class App {
 	public String sample() {
-		return "Sample Java PRogram";
+		return "Sample Java Example PRogram";
 	}
 }
